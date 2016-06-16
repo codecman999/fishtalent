@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://dshinetest.vicp.cc:5003/s/fish.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://dshinetest.vicp.cc:5003/s/fish_logo.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.sgw.fishdaren.ios</string>
+				<key>bundle-version</key>
+				<string>1080</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>捕鱼欢乐季</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
